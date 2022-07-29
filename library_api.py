@@ -16,6 +16,38 @@ def hello_world():
                 5:"enter name of book: example -->bookToPeople/the",
                 6:"enter name of book: exapmle -->bookRent/Watchmen",
                 7:"enter name of the person : example -->personBooks/<string:pname>",
+                8: ["list of the books in databse(BOOKS) -->", "Life of Pi", "The Three Musketeers", "The Call of the Wild,Watchmen",
+                       "The Walking Dead",
+                       "The Boy, the Mole, the Fox and the Horse",
+                       "The Night Fire",
+                       "The Adventures of Sherlock Holmes",
+                       "And Then There Were None",
+                       "The Water Dancer",
+                       "CIRCE",
+                       "Ninth House",
+                       "Carrie",
+                       "The Haunting of Hill House",
+                       "Bird Box",
+                       "Brazen and the Beast",
+                       "Royal Holiday"
+                       "The Savior",
+                       "The Testaments: The Sequel to The Handmaid's Tale",
+                       "The Hunger Games Trilogy",
+                       "1984",
+                       "Me: Elton John Official Autobiography",
+                       "Frida: A Biography of Frida Kahlo",
+                       "I Know Why the Caged Bird Sings"
+                       "Cravings: Hungry for More: A Cookbook",
+                       "The Jemima Code: Two Centuries of African American Cookbooks",
+                       "Mastering the Art of French Cooking, Volume 1: A Cookbook",
+                       ],
+                9: ["data in database(TRANSACTIONS) -> ", [["book name","person name","issue date", "return date"],
+                                                          ["Life of Pi","shubham","2022/07/22", "2022/07/25", ],
+                                                          ["Watchmen","shubham_sharma","2022/07/27","null"],
+                                                          ["The Call of the Wild","sam","2022/12/02","04/09/2022"],
+                                                          ["CIRCE","robin","2022/06/05","2022/06/07"],
+                                                          ["1984","shubham","2022/07/29","2022/07/31"],
+                                                          ["Watchmen","sam","2022/07/28","2022/07/31"]]]
                 }    
     return instruction
 
