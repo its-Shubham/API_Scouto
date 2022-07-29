@@ -1,0 +1,28 @@
+_id,book_name,category,rent_per_day
+62e0f7202552f30142240992,Life of Pi,adventure,10
+62e0f753c41e2fc98bfb9a9d,The Three Musketeers,adventure,8
+62e0f85dc41e2fc98bfb9a9f,The Call of the Wild,adventure,7
+62e0f895c41e2fc98bfb9aa0,Watchmen,comic,8
+62e0f8acc41e2fc98bfb9aa1,The Walking Dead,comic,10
+62e0f8e9c41e2fc98bfb9aa2,"The Boy, the Mole, the Fox and the Horse",comic,11
+62e0f91dc41e2fc98bfb9aa3,The Night Fire,mystery,10
+62e0f934c41e2fc98bfb9aa4,The Adventures of Sherlock Holmes,mystery,12
+62e0f94ec41e2fc98bfb9aa5,And Then There Were None,mystery,9
+62e0f988c41e2fc98bfb9aa6,The Water Dancer,fantasy,9
+62e0f9a8c41e2fc98bfb9aa7,CIRCE,fantasy,8
+62e0f9bcc41e2fc98bfb9aa8,Ninth House,fantasy,8
+62e0f9dfc41e2fc98bfb9aa9,Carrie,horror,8
+62e0f9f0c41e2fc98bfb9aaa,The Haunting of Hill House,horror,9
+62e0fa02c41e2fc98bfb9aab,Bird Box,horror,9
+62e0fa5a2eabfe05fd5b327e,Brazen and the Beast,romance,9
+62e0fa752eabfe05fd5b327f,Royal Holiday,romance,10
+62e0fa8c2eabfe05fd5b3280,The Savior,romance,8
+62e0faad2eabfe05fd5b3281,"The Testaments: The Sequel to The Handmaid's Tale",science fiction,10
+62e0fabf2eabfe05fd5b3282,The Hunger Games Trilogy,science fiction,12
+62e0fad12eabfe05fd5b3283,1984,science fiction,14
+62e0fb092eabfe05fd5b3284,Me: Elton John Official Autobiography,biography,8
+62e0fb1e2eabfe05fd5b3285,Frida: A Biography of Frida Kahlo,biography,15
+62e0fb312eabfe05fd5b3286,I Know Why the Caged Bird Sings,biography,8
+62e0fb522eabfe05fd5b3287,Cravings: Hungry for More: A Cookbook,cooking,10
+62e0fbb72eabfe05fd5b3289,The Jemima Code: Two Centuries of African American Cookbooks,cooking,12
+62e0fc795d08cb94cec8c44a,"Mastering the Art of French Cooking, Volume 1: A Cookbook",cooking,14
